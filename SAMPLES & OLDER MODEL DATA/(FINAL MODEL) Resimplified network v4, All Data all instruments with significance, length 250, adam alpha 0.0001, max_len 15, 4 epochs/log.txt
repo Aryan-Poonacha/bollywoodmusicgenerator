@@ -1,0 +1,73 @@
+
+------ Sample No: 3
+How many rows for non-start note at beginning: 15
+How many rows for non-start note at end: 0
+128 480
+------ temperature: 1.2
+------ Sample No: 4
+How many rows for non-start note at beginning: 1
+How many rows for non-start note at end: 0
+128 494
+------ temperature: 1.0
+------ Sample No: 5
+How many rows for non-start note at beginning: 0
+How many rows for non-start note at end: 0
+128 495
+Epoch: 3
+Epoch 1/1
+60985/60985 [==============================] - 690s 11ms/step - loss: 4.4834
+------ temperature: 1.9
+------ Sample No: 1
+How many rows for non-start note at beginning: 15
+How many rows for non-start note at end: 0
+128 480
+------ temperature: 2.2
+------ Sample No: 2
+How many rows for non-start note at beginning: 0
+How many rows for non-start note at end: 0
+128 495
+------ temperature: 1.3
+------ Sample No: 3
+How many rows for non-start note at beginning: 3
+How many rows for non-start note at end: 0
+128 492
+------ temperature: 2.0
+------ Sample No: 4
+How many rows for non-start note at beginning: 6
+How many rows for non-start note at end: 0
+128 489
+------ temperature: 0.0
+------ Sample No: 5
+C:\Users\poona\anaconda3\envs\mlproject\lib\site-packages\ipykernel_launcher.py:116: RuntimeWarning: divide by zero encountered in true_divide
+C:\Users\poona\anaconda3\envs\mlproject\lib\site-packages\ipykernel_launcher.py:118: RuntimeWarning: invalid value encountered in true_divide
+How many rows for non-start note at beginning: 15
+How many rows for non-start note at end: 0
+128 480
+Epoch: 4
+Epoch 1/1
+60985/60985 [==============================] - 700s 11ms/step - loss: 4.3467
+------ temperature: 0.7
+------ Sample No: 1
+How many rows for non-start note at beginning: 2
+How many rows for non-start note at end: 0
+128 493
+------ temperature: 0.0
+------ Sample No: 2
+How many rows for non-start note at beginning: 15
+How many rows for non-start note at end: 0
+128 480
+------ temperature: 0.4
+------ Sample No: 3
+How many rows for non-start note at beginning: 15
+How many rows for non-start note at end: 0
+128 480
+------ temperature: 1.9
+------ Sample No: 4
+How many rows for non-start note at beginning: 15
+How many rows for non-start note at end: 0
+128 480
+------ temperature: 2.1
+------ Sample No: 5
+How many rows for non-start note at beginning: 0
+How many rows for non-start note at end: 0
+128 495

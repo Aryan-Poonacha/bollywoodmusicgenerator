@@ -1,0 +1,124 @@
+Epoch: 1
+Epoch 1/1
+63980/63980 [==============================] - 1172s 18ms/step - loss: 3.9004
+------ temperature: 1.2
+How many rows for non-start note at beginning: 20
+How many rows for non-start note at end: 0
+128 480
+Epoch: 2
+Epoch 1/1
+63980/63980 [==============================] - 1181s 18ms/step - loss: 4.1034
+Epoch: 3
+Epoch 1/1
+63980/63980 [==============================] - 1194s 19ms/step - loss: 4.1888
+Epoch: 4
+Epoch 1/1
+63980/63980 [==============================] - 1189s 19ms/step - loss: 4.0126
+------ temperature: 1.2
+How many rows for non-start note at beginning: 0
+How many rows for non-start note at end: 0
+128 500
+Epoch: 5
+Epoch 1/1
+63980/63980 [==============================] - 1192s 19ms/step - loss: 3.7785
+Epoch: 6
+Epoch 1/1
+63980/63980 [==============================] - 1197s 19ms/step - loss: 3.6259
+Epoch: 7
+Epoch 1/1
+63980/63980 [==============================] - 1197s 19ms/step - loss: 3.5493
+------ temperature: 1.2
+How many rows for non-start note at beginning: 0
+How many rows for non-start note at end: 0
+128 500
+Epoch: 8
+Epoch 1/1
+63980/63980 [==============================] - 1196s 19ms/step - loss: 3.5359
+Epoch: 9
+Epoch 1/1
+63980/63980 [==============================] - 1196s 19ms/step - loss: 3.5352
+Epoch: 10
+Epoch 1/1
+63980/63980 [==============================] - 1195s 19ms/step - loss: 3.5439
+------ temperature: 1.2
+How many rows for non-start note at beginning: 18
+How many rows for non-start note at end: 0
+128 482
+Epoch: 11
+Epoch 1/1
+63980/63980 [==============================] - 1195s 19ms/step - loss: 3.5742
+Epoch: 12
+Epoch 1/1
+63980/63980 [==============================] - 1195s 19ms/step - loss: 3.5961
+Epoch: 13
+Epoch 1/1
+63980/63980 [==============================] - 1195s 19ms/step - loss: 3.6463
+------ temperature: 1.2
+How many rows for non-start note at beginning: 20
+How many rows for non-start note at end: 0
+128 480
+Epoch: 14
+Epoch 1/1
+63980/63980 [==============================] - 1195s 19ms/step - loss: 3.6884
+Epoch: 15
+Epoch 1/1
+63980/63980 [==============================] - 1196s 19ms/step - loss: 3.7323
+Epoch: 16
+Epoch 1/1
+63980/63980 [==============================] - 1196s 19ms/step - loss: 3.7728
+------ temperature: 1.2
+How many rows for non-start note at beginning: 0
+How many rows for non-start note at end: 0
+128 500
+Epoch: 17
+Epoch 1/1
+63980/63980 [==============================] - 1194s 19ms/step - loss: 3.8092
+Epoch: 18
+Epoch 1/1
+63980/63980 [==============================] - 1195s 19ms/step - loss: 3.8395
+Epoch: 19
+Epoch 1/1
+63980/63980 [==============================] - 1195s 19ms/step - loss: 3.9040
+------ temperature: 1.2
+How many rows for non-start note at beginning: 20
+How many rows for non-start note at end: 0
+128 480
+Epoch: 20
+Epoch 1/1
+63980/63980 [==============================] - 1195s 19ms/step - loss: 3.9423
+Epoch: 21
+Epoch 1/1
+63980/63980 [==============================] - 1195s 19ms/step - loss: 3.9724
+Epoch: 22
+Epoch 1/1
+63980/63980 [==============================] - 1196s 19ms/step - loss: 4.0245
+------ temperature: 1.2
+How many rows for non-start note at beginning: 20
+How many rows for non-start note at end: 0
+128 480
+Epoch: 23
+Epoch 1/1
+63980/63980 [==============================] - 1195s 19ms/step - loss: 4.0530
+Epoch: 24
+Epoch 1/1
+63980/63980 [==============================] - 1196s 19ms/step - loss: 4.1011
+Epoch: 25
+Epoch 1/1
+63980/63980 [==============================] - 1198s 19ms/step - loss: 4.1610
+------ temperature: 1.2
+How many rows for non-start note at beginning: 20
+How many rows for non-start note at end: 0
+128 480
+Epoch: 26
+Epoch 1/1
+63980/63980 [==============================] - 1196s 19ms/step - loss: 4.2250
+Epoch: 27
+Epoch 1/1
+63980/63980 [==============================] - 1211s 19ms/step - loss: 4.2316
+Epoch: 28
+Epoch 1/1
+63980/63980 [==============================] - 1185s 19ms/step - loss: 4.2805
+------ temperature: 1.2
+How many rows for non-start note at beginning: 20
+How many rows for non-start note at end: 0
+128 480
